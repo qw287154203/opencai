@@ -1,0 +1,220 @@
+﻿body {
+	background: #f0f0f0
+}
+
+.a_color {
+	color: #fa8e19
+}
+
+.noboder {
+	border: 0 solid transparent!important
+}
+
+.iboder {
+	width: 55%;
+	border-radius: 2px
+}
+
+.boxsiz {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box
+}
+
+.actNavBig {
+	font-weight: 800
+}
+
+.actNav,.actNavBig {
+	color: #f60!important
+}
+
+.showBlock,.showDetail {
+	display: block!important
+}
+
+.displayNone {
+	display: none
+}
+
+.padding0 {
+	padding: 0!important
+}
+
+.bodybox .kaijiangjl {
+	clear: both;
+	width: 1200px;
+	margin: 20px auto 0;
+	background: #fff;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	color: #555
+}
+
+.bodybox .kaijiangjl .listcontent {
+	margin-top: 15px;
+	background: #f0f0f0
+}
+
+.bodybox .kaijiangjl .listcontent #navBox {
+	height: 50px;
+	width: 100%;
+	color: #333;
+	font-size: 16px;
+	background: #fff
+}
+
+.bodybox .kaijiangjl .listcontent #navBox ul {
+	width: 1160px;
+	height: 50px;
+	line-height: 50px;
+	margin: 0 auto
+}
+
+.bodybox .kaijiangjl .listcontent #navBox ul li {
+	float: left;
+	width: 70px;
+	cursor: pointer;
+	margin-right: 30px
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox {
+	height: auto;
+	padding: 0 20px 20px;
+	margin: 15px 0;
+	background: #fff
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf span,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 span,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther span,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 span,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC span,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW span {
+	display: none
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW ul {
+	width: auto;
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px solid #e6e6e6
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW ul li {
+	position: relative;
+	float: left;
+	font-size: 14px;
+	color: #333;
+	margin-right: 21px;
+	cursor: pointer;
+	vertical-align: middle
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf ul li i,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 ul li i,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther ul li i,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 ul li i,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC ul li i,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW ul li i {
+	position: absolute;
+	display: inline-block;
+	height: 3px;
+	background: #ff7b00;
+	bottom: -2px;
+	left: 20%
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf #zoushiMinc,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 #zoushiMinc,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther #zoushiMinc,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 #zoushiMinc,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC #zoushiMinc,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW #zoushiMinc {
+	width: 100%;
+	height: 50px;
+	line-height: 50px
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf #zoushiMinc ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 #zoushiMinc ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther #zoushiMinc ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 #zoushiMinc ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC #zoushiMinc ul,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW #zoushiMinc ul {
+	height: 100%
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKlsf #zoushiMinc ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelKuai3 #zoushiMinc ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelOther #zoushiMinc ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelPK10 #zoushiMinc ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSSC #zoushiMinc ul li,.bodybox .kaijiangjl .listcontent .tubiaoBox #listModelSYXW #zoushiMinc ul li {
+	float: left;
+	margin-right: 30px
+}
+
+.bodybox .kaijiangjl .listcontent .tubiaoBox #zhexiantu {
+	width: 1160px;
+	height: 230px;
+	margin-top: -10px;
+	background: #fff
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox #detailKlsf,.bodybox .kaijiangjl .listcontent #detailBox #detailKuai3,.bodybox .kaijiangjl .listcontent #detailBox #detailPK10,.bodybox .kaijiangjl .listcontent #detailBox #detailSSC,.bodybox .kaijiangjl .listcontent #detailBox #detailSYXW {
+	display: none
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row {
+	height: 160px;
+	width: 100%;
+	background: #f0f0f0;
+	margin-bottom: 15px
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row a {
+	vertical-align: middle;
+	position: relative
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row a img {
+	display: inline-block
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row a i {
+	position: absolute;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	left: 0;
+	bottom: 0;
+	font-size: 16px;
+	font-weight: 800
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divl {
+	float: left;
+	height: 130px;
+	margin: 15px 0 0 20px
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divl a {
+	height: 100%
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divr {
+	float: left;
+	height: auto;
+	width: 391px;
+	padding: 20px
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divr ul {
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding-top: 15px
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divr ul li {
+	float: left;
+	margin-bottom: 10px;
+	font-size: 14px;
+	margin-right: 19px
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divr ul li a {
+	color: #666
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .divr ul li a:hover {
+	color: #fa8e19
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .rowl,.bodybox .kaijiangjl .listcontent #detailBox .row .rowr {
+	float: left;
+	background: #fff;
+	width: 592px;
+	height: 100%
+}
+
+.bodybox .kaijiangjl .listcontent #detailBox .row .rowl {
+	margin-right: 15px
+}

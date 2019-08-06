@@ -1,0 +1,1 @@
+var headMethod={},boxId="#headerData",lotCode=lotCode.sgAirship;headMethod.loadHeadData=function(a,e){pubmethod.ajaxHead.pk10(a,e)},headMethod.headData=function(a,e){var o=tools.parseObj(a);o=o.result.data;var d=tools.operatorTime(""==o.drawTime?"0":o.drawTime,o.serverTime);tools.publicJsft(a,e,o,d)};
